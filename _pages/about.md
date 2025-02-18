@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Site building in progress"
+title: "Welcome to my homepage!"
 author_profile: true
 redirect_from: 
   - /about/

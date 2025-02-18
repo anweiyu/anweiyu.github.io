@@ -11,16 +11,12 @@ My name is Anwei and I'm a second generation Chinese American from San Francisco
 
 Research Interests
 ======
-・Applied Linguistics
-・L2 Chinese Language Pedagogy and Acquisition
-・L2 Japanese Language Pedagogy and Acquisition
-・Corpus Linguistics
-・Language Transfer and Interlanguage
-・Contrastive Linguistics and Error Analysis
-・Cognitive Linguistics and Language Processing
-・Cultural Competence and Cross-Cultural Communication
+・Applied Linguistics  
+・L2 Chinese Language Pedagogy and Acquisition  
+・L2 Japanese Language Pedagogy and Acquisition  
+・Corpus Linguistics  
+・Language Transfer and Interlanguage  
+・Contrastive Linguistics and Error Analysis  
+・Cognitive Linguistics and Language Processing  
+・Cultural Competence and Cross-Cultural Communication  
 ・Studies on Overseas Chinese and Chinese as a Heritage Language
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.

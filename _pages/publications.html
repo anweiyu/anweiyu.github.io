@@ -4,33 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+・<strong>Yu, Anwei</strong>, Hsuan-Yun Lin, & Huichen S. Hsiao (Submitted). A Study on Scalar Processing and Context in Mandarin Chinese.<br>
+・Wang, Yun-Han, <strong>Anwei Yu</strong>, & Huichen S. Hsiao (2025). An Empirical Study on Scalar Structure in Mandarin: A Case Study on “Degree Adverb-Adjective” Structures. <em>Chinese Language and Discourse</em>. Advanced online publication.<br>
+・<strong>Yu, Anwei</strong>, & Huichen S. Hsiao (2024). A Preliminary Study on Japanese CSL Learners’ Acquisition of Mandarin Potential Expressions. In: M. Dong, J.-F. Hong, P. Jin, & J. Lin (Eds.). <em>Chinese Lexical Semantics (CLSW 2023, Revised Selected Papers, Part II</em>, pp. 423–434). Lecture Notes in Computer Science (Artificial Intelligence), vol. 14515. Singapore: Springer Nature.<br>
+・Hsiao, Huichen S., Yun-han Wang, & <strong>Anwei Yu</strong> (2024). A Study on Native Mandarin Speakers’ Homogeneity of Degree Adverbs and Adjectives. In: M. Dong, J.-F. Hong, P. Jin, & J. Lin (Eds.). <em>Chinese Lexical Semantics (CLSW 2023, Revised Selected Papers, Part I</em>, pp. 3–10). Lecture Notes in Computer Science (Artificial Intelligence), vol. 14515. Singapore: Springer Nature.<br>
+・<strong>Yu, Anwei</strong>, & Huichen S. Hsiao (2022). An Error Analysis on Japanese CSL Learners’ Usage of Mandarin Potential Expressions: A Preliminary Study. In Association of Teaching Chinese as a Second Language (Ed.), <em>Proceedings of The 2022 Annual International Conference of Teaching Chinese as a Second Language</em> (pp. 571-575). Taipei: Association of Teaching Chinese as a Second Language.

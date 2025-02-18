@@ -26,5 +26,5 @@ Education
 ======
 ・M.A., Chinese as a Second Language (Applied Linguistics)  
 National Taiwan Normal University, Taipei, Taiwan  
-・B.A., International Relations (World Trade and Development Economics), Chinese and Japanese  
+・B.A., International Relations, Chinese and Japanese  
 University of California, Davis, U.S.A.

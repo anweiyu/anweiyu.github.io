@@ -21,3 +21,10 @@ Research Interests
 ・Cognitive Linguistics and Language Processing  
 ・Cultural Competence and Cross-Cultural Communication  
 ・Studies on Overseas Chinese and Chinese as a Heritage Language
+
+Education
+======
+・M.A., Chinese as a Second Language (Applied Linguistics)  
+National Taiwan Normal University, Taipei, Taiwan  
+・B.A., International Relations (World Trade and Development Economics), Chinese and Japanese  
+University of California, Davis, U.S.A.

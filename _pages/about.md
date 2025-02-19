@@ -31,5 +31,10 @@ Education
     National Taiwan Normal University, Taipei, Taiwan<br>
     Thesis: <em>An Error Analysis on Japanese CSL Learners' Usage of Mandarin Potential Expressions and its Pedagogical Implications</em></p>
 </div>  
-B.A., International Relations, Chinese and Japanese  
-University of California, Davis, U.S.A.
+<div style="display: flex; align-items: flex-start; text-align-left;">
+  <img 
+    src="https://github.com/anweiyu/anweiyu.github.io/blob/a2e4263c39eb80205d10e657a22ab291bcdfb9a1/images/UCDavis.png" alt="UCD Logo" width="100" style=margin-right:15px;">
+  <p style="margin: 0;"><strong>B.A., International Relations, Chinese and Japanese</strong><br>
+    University of California, Davis, U.S.A.<br>
+    Thesis: <em>The Relationship Between Chinese Language and the Formation of Chinese-American Identity</em></p>
+</div>

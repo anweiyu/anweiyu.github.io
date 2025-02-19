@@ -29,4 +29,4 @@ Education
     Thesis: <em>An Error Analysis on Japanese CSL Learners' Usage of Mandarin Potential Expressions and its Pedagogical Implications</em><br><br>
 <strong>B.A., International Relations, Chinese and Japanese</strong><br>
     University of California, Davis, U.S.A.<br>
-    Thesis: <em>The Relationship Between Chinese Language and the Formation of Chinese-American Identity</em></p>
+    Thesis: <em>The Relationship Between Chinese Language and the Formation of Chinese-American Identity</em>

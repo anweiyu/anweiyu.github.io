@@ -28,7 +28,7 @@ Education
   <img src="NTNU.png" alt="University Logo" width="100"style=margin-right:15px;">
   <p style="margin: 0;"><strong>M.A., Chinese as a Second Language</strong><br>
     National Taiwan Normal University, Taipei, Taiwan<br>
-    Specialization: Applied Linguistics </p>
+    Thesis: An Error Analysis on Japanese CSL Learners' Usage of Mandarin Potential Expressions and its Pedagogical Implications </p>
 </div>  
 B.A., International Relations, Chinese and Japanese  
 University of California, Davis, U.S.A.

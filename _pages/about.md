@@ -25,7 +25,8 @@ Research Interests
 Education
 ======
 <div style="display: flex; align-items: flex-start; text-align-left;">
-  <img src="{{anweiyu.github.io}}/images/NTNU.png" alt="NTNU Logo" width="100" style=margin-right:15px;">
+  <img 
+    src="https://github.com/anweiyu/anweiyu.github.io/blob/c5797086edbf71be232cb8c19ef7671f90489022/images/NTNU.png" alt="NTNU Logo" width="100" style=margin-right:15px;">
   <p style="margin: 0;"><strong>M.A., Chinese as a Second Language</strong><br>
     National Taiwan Normal University, Taipei, Taiwan<br>
     Thesis: <em>An Error Analysis on Japanese CSL Learners' Usage of Mandarin Potential Expressions and its Pedagogical Implications</em></p>

@@ -24,7 +24,11 @@ Research Interests
 
 Education
 ======
-・M.A., Chinese as a Second Language (Applied Linguistics)  
-National Taiwan Normal University, Taipei, Taiwan  
-・B.A., International Relations, Chinese and Japanese  
+<div style="display: flex; align-items: flex-start; text-align-left;">
+  <img src="NTNU.png" alt="University Logo" width="100"style=margin-right:15px;">
+  <p style="margin: 0;"><strong>M.A., Chinese as a Second Language</strong><br>
+    National Taiwan Normal University, Taipei, Taiwan<br>
+    Specialization: Applied Linguistics </p>
+</div>  
+B.A., International Relations, Chinese and Japanese  
 University of California, Davis, U.S.A.

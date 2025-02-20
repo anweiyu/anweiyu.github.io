@@ -29,6 +29,8 @@ Education
   <p style="margin: 0;"><strong>M.A., Chinese as a Second Language</strong><br>
     National Taiwan Normal University, Taipei, Taiwan<br>
     Thesis: <em>An Error Analysis on Japanese CSL Learners' Usage of Mandarin Potential Expressions and its Pedagogical Implications</em></p></div>
-<strong>B.A., International Relations, Chinese and Japanese</strong><br>
+<div style="display: flex; align-items:flex-start;text-align: left;">
+  <img src="{{site.baseurl}}/images/UCD.png" alt="UCD Logo" width= "100" style="margin-right: 15px;">
+  <p style="margin: 0;"><strong>B.A., International Relations, Chinese and Japanese</strong><br>
     University of California, Davis, U.S.A.<br>
-    Thesis: <em>The Relationship Between Chinese Language and the Formation of Chinese-American Identity</em>
+    Thesis: <em>The Relationship Between Chinese Language and the Formation of Chinese-American Identitys</em></p></div>

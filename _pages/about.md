@@ -33,4 +33,4 @@ Education
   <img src="{{site.baseurl}}/images/UCDavis.png" alt="UC Davis Logo" width= "100" style="margin-right: 15px;">
   <p style="margin: 0;"><strong>B.A., International Relations, Chinese and Japanese</strong><br>
     University of California, Davis, CA, U.S.A.<br>
-    Thesis: <em>The Relationship Between Chinese Language and the Formation of Chinese-American Identitys</em></p></div>
+    Thesis: <em>The Relationship Between Chinese Language and the Formation of Chinese-American Identity</em></p></div>

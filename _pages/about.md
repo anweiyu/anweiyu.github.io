@@ -28,7 +28,7 @@ Education
   <img src="{{site.baseurl}}/images/NTNU.png" alt="NTNU Logo" width= "100" style="margin-right: 15px;">
   <p style="margin: 0;"><strong>M.A., Chinese as a Second Language</strong><br>
     National Taiwan Normal University, Taipei, Taiwan<br>
-    Thesis: <em>An Error Analysis on Japanese CSL Learners' Usage of Mandarin Potential Expressions and its Pedagogical Implications</em></p></div>
+    Thesis: <a href="http://doi.org/10.6345/NTNU202300624"><em>An Error Analysis on Japanese CSL Learners' Usage of Mandarin Potential Expressions and its Pedagogical Implications</em></a></p></div>
 <div style="display: flex; align-items:flex-start;text-align: left;">
   <img src="{{site.baseurl}}/images/UCDavis.png" alt="UC Davis Logo" width= "100" style="margin-right: 15px;">
   <p style="margin: 0;"><strong>B.A., International Relations, Chinese and Japanese</strong><br>

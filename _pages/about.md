@@ -1,16 +1,18 @@
 ---
 permalink: /
-title: "Welcome! 歡迎！ ようこそ！"  
+title: "Welcome! 歡迎！ようこそ！"  
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-About me 關於我
+About me 關於我 自己紹介
 ======
 My name is Anwei and I'm a second-generation Chinese American from San Francisco. My family is from Hong Kong and Guangdong, China, and I was educated in the U.S. and Taiwan. I can fluently speak Mandarin, Cantonese, Taishanese, English and Japanese. I also have working knowledge of Taiwanese Hokkien, Korean and Spanish. Because of my background, I have developed a passion for learning about and spreading knowledge regarding different cultures and languages to others. I also love getting to know new people who come from their own diverse backgrounds, and all of these factors have led me to pursue a graduate degree and conduct my current research in the field of Chinese Linguistics and Second Language Acquisition.  
 
 我的名字叫余安維，我是一名出生於美國舊金山的二代華僑，家族來自香港和廣東省。我在美國和臺灣受教育，能夠流利地說普通話、廣東話、台山話、英語和日語，也學習過臺灣閩南語、韓語和西班牙語。因為從小在多元環境下成長，所以對學習及分享不同文化和語言相關的知識有熱忱，也樂於結識來自不同文化背景的朋友。這些經歷激發了我對漢語語言學與二語習得的興趣，進而促使我在研究所深入探索相關議題。
+
+私はユ．アンウェイと申します。サンフランシスコで生まれた第二代華僑で、両親の出身は香港と中国広東である。アメリカと台湾で教育を受け、北京語、広東語、台山語、英語と日本語を流暢に話せ、台湾閩南語、韓国語とスペイン語を勉強したこともある。多文化的な環境で育ったため、異文化と言語の学習や共有に強い関心を持ち、異文化の人々と交流することを楽しんでいる。これらの経験を通じて、中国語言語学や第二言語習得に興味を持つようになり、大学院で関連する研究を深めることを決意した。
 
 Research Interests 研究專長
 ======

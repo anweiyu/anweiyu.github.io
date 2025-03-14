@@ -28,11 +28,11 @@ Education 教育背景
 ======
 <div style="display: flex; align-items:flex-start;text-align: left;">
   <img src="{{site.baseurl}}/images/NTNU.png" alt="NTNU Logo" width= "100" style="margin-right: 15px;">
-  <p style="margin: 0;"><strong>M.A., Chinese as a Second Language 華語文教學 碩士</strong><br>
+  <p style="margin: 0;"><strong>M.A., Chinese as a Second Language <br>華語文教學 碩士</strong><br>
     National Taiwan Normal University, Taipei, Taiwan 國立臺灣師範大學<br>
-    Thesis: <a href="http://doi.org/10.6345/NTNU202300624"><em>An Error Analysis on Japanese CSL Learners' Usage of Mandarin Potential Expressions and its Pedagogical Implications</em> 日籍華語學習者能性結構偏誤分析及其教學應用</a></p></div>
+    Thesis: <a href="http://doi.org/10.6345/NTNU202300624"><em>An Error Analysis on Japanese CSL Learners' Usage of Mandarin Potential Expressions and its Pedagogical Implications</em> <br>日籍華語學習者能性結構偏誤分析及其教學應用</a></p></div>
 <div style="display: flex; align-items:flex-start;text-align: left;">
   <img src="{{site.baseurl}}/images/UCDavis.png" alt="UC Davis Logo" width= "100" style="margin-right: 15px;">
-  <p style="margin: 0;"><strong>B.A., International Relations, Chinese and Japanese 國際關係學、漢語言文學、日語言文學 學士</strong><br>
+  <p style="margin: 0;"><strong>B.A., International Relations, Chinese and Japanese <br>國際關係學、漢語言文學、日語言文學 學士</strong><br>
     University of California, Davis, CA, U.S.A. 美國加州大學戴維斯分校<br>
     Thesis: <em>The Relationship Between Chinese Language and the Formation of Chinese-American Identity</em></p></div>

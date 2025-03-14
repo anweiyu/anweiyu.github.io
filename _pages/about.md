@@ -27,6 +27,10 @@ Research Interests 研究專長
 Education 教育背景
 ======
 <div style="display: flex; align-items:flex-start;text-align: left;">
+  <img src="{{site.baseurl}}/images/IU.png" alt="IU Logo" width= "100" style="margin-right: 15px;">
+  <p style="margin: 0;"><strong>Ph.D Student, Chinese Linguistics (Starting Aug 2025) <br>漢語語言學 博士生</strong><br>
+    Indiana University Bloomington, IN, U.S.A. 印第安納大學伯明頓分校</p></div>
+<div style="display: flex; align-items:flex-start;text-align: left;">
   <img src="{{site.baseurl}}/images/NTNU.png" alt="NTNU Logo" width= "100" style="margin-right: 15px;">
   <p style="margin: 0;"><strong>M.A., Chinese as a Second Language <br>華語文教學 碩士</strong><br>
     National Taiwan Normal University, Taipei, Taiwan 國立臺灣師範大學<br>

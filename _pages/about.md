@@ -19,7 +19,7 @@ Research Interests 研究專長
 ・L2 Japanese Pedagogy and Acquisition 日語二語教學與習得  
 ・Corpus Linguistics 語料庫語言學  
 ・Language Transfer and Interlanguage 語言轉移與中介語  
-・Contrastive Linguistics and Error Analysis 對比分析與教學應用  
+・Contrastive Linguistics and Error Analysis 對比分析與偏誤分析  
 ・Cognitive Linguistics and Language Processing 認知語言學及語言處理  
 ・Cultural Competence and Cross-Cultural Communication 文化能力與跨文化交流  
 ・Studies on Overseas Chinese and Chinese as a Heritage Language 華僑與華語為繼承語研究

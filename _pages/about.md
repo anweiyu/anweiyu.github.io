@@ -24,7 +24,7 @@ Research Interests 研究專長
 ・Cultural Competence and Cross-Cultural Communication 文化能力與跨文化交流  
 ・Studies on Overseas Chinese and Chinese as a Heritage Language 華僑與華語為繼承語研究
 
-Education
+Education 教育背景
 ======
 <div style="display: flex; align-items:flex-start;text-align: left;">
   <img src="{{site.baseurl}}/images/NTNU.png" alt="NTNU Logo" width= "100" style="margin-right: 15px;">

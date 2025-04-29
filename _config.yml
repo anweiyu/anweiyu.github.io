@@ -26,9 +26,9 @@ author:
   pronouns         : "he/they" 
   bio              : "Language and Linguistics"
   location         : "San Francisco, CA"
-  employer         : "National Taiwan Normal University"
+  employer         : "Indiana University"
   uri              : # URL
-  email            : "yu.anwei@ntnu.edu.tw" 
+  email            : "anwyu@iu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/anweiyu/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

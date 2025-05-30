@@ -12,15 +12,15 @@ My name is Anwei and I'm a second-generation Chinese American from San Francisco
 
 Research Interests
 ======
-・Applied Linguistics 
-・L2 Chinese Pedagogy and Acquisition
-・L2 Japanese Pedagogy and Acquisition
-・Corpus Linguistics
-・Language Transfer and Interlanguage 
-・Contrastive Linguistics and Error Analysis
+・Applied Linguistics  
+・L2 Chinese Pedagogy and Acquisition  
+・L2 Japanese Pedagogy and Acquisition  
+・Corpus Linguistics  
+・Language Transfer and Interlanguage  
+・Contrastive Linguistics and Error Analysis  
 ・Cognitive Linguistics and Language Processing  
-・Cultural Competence and Cross-Cultural Communication
-・Studies on Overseas Chinese and Chinese as a Heritage Language
+・Cultural Competence and Cross-Cultural Communication  
+・Studies on Overseas Chinese and Chinese as a Heritage Language  
 
 Education
 ======

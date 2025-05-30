@@ -19,7 +19,7 @@ Research Interests
 ・Language Transfer and Interlanguage  
 ・Contrastive Linguistics and Error Analysis  
 ・Cognitive Linguistics and Language Processing  
-・Cultural Competence and Cross-Cultural Communication  
+・Cultural Competence and Intercultural Communication  
 ・Studies on Overseas Chinese and Chinese as a Heritage Language  
 
 Education

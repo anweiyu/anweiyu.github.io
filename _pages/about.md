@@ -29,12 +29,14 @@ Education
   <p style="margin: 0;"><strong>Ph.D. Student, Chinese Linguistics (Starting Aug 2025) </strong><br>
     Indiana University, Bloomington, IN, U.S.A.<br>
     Fields of Study: Experimental Linguistics, Language Processing<br>
-    </p></div>
+    </p></div>  <br>
+    
 <div style="display: flex; align-items:flex-start;text-align: left;">
   <img src="{{site.baseurl}}/images/NTNU.png" alt="NTNU Logo" width= "100" style="margin-right: 15px;">
   <p style="margin: 0;"><strong>M.A., Chinese as a Second Language</strong><br>
     National Taiwan Normal University, Taipei, Taiwan<br>
-    Thesis: <a href="http://doi.org/10.6345/NTNU202300624"><em>An Error Analysis on Japanese CSL Learners' Usage of Mandarin Potential Expressions and its Pedagogical Implications</em> <br>日籍華語學習者能性結構偏誤分析及其教學應用</a></p></div>
+    Thesis: <a href="http://doi.org/10.6345/NTNU202300624"><em>An Error Analysis on Japanese CSL Learners' Usage of Mandarin Potential Expressions and its Pedagogical Implications</em> <br>日籍華語學習者能性結構偏誤分析及其教學應用</a></p></div>  <br>
+    
 <div style="display: flex; align-items:flex-start;text-align: left;">
   <img src="{{site.baseurl}}/images/UCDavis.png" alt="UC Davis Logo" width= "100" style="margin-right: 15px;">
   <p style="margin: 0;"><strong>B.A., International Relations, Chinese and Japanese</strong><br>

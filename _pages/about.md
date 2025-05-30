@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome! 歡迎！ようこそ！"  
+title: "Welcome!"  
 author_profile: true
 redirect_from: 
   - /about/

@@ -26,7 +26,7 @@ Education
 ======
 <div style="display: flex; align-items:flex-start;text-align: left;">
   <img src="{{site.baseurl}}/images/IU.png" alt="IU Logo" width= "100" style="margin-right: 15px;">
-  <p style="margin: 0;"><strong>Ph.D. Student, Chinese Linguistics (Starting Aug 2025) </strong><br>
+  <p style="margin: 0;"><strong>Ph.D., Chinese Linguistics (Aug 2025 to Present) </strong><br>
     Indiana University, Bloomington, IN, U.S.A.<br>
     Fields of Study: Experimental Linguistics, Language Processing<br>
     </p></div>

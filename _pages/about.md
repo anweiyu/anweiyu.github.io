@@ -14,8 +14,8 @@ Research Interests
 ======
 ・Experimental Linguistics  
 ・L2 Chinese Pedagogy and Acquisition  
-・L2 Japanese Pedagogy and Acquisition
-・Experimental Pragmatics
+・L2 Japanese Pedagogy and Acquisition  
+・Experimental Pragmatics  
 ・Corpus Linguistics  
 ・Contrastive Linguistics and Error Analysis  
 ・Cognitive Linguistics and Language Processing  

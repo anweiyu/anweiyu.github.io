@@ -8,7 +8,7 @@ redirect_from:
 ---
 About me
 ======
-My name is Anwei and I'm a second-generation Chinese American from San Francisco. My family is from Hong Kong and Guangdong, China, and I was educated in the U.S. and Taiwan. I can fluently speak Mandarin, Cantonese, Taishanese, English and Japanese. I also have working knowledge of Taiwanese Hokkien, Korean and Spanish. Because of my background, I have developed a passion for learning about and spreading knowledge regarding different cultures and languages to others. I also love getting to know new people who come from their own diverse backgrounds, and all of these factors have led me to pursue a graduate degree and conduct my current research in the field of East Asian Linguistics.  
+My name is Anwei and I am a researcher of East Asian Linguistics. While I grew up in San Francisco, California, I am proud of my family's  roots in Hong Kong and Guangdong, China.  I was educated in the U.S. and Taiwan, and I have full professional fluency in Cantonese, Taishanese, Mandarin, English, and Japanese. I also have working knowledge of Taiwanese Hokkien, Korean and Spanish. Through my experiences as a learner, instructor and researcher of languages and linguistics, I have developed a passion for this field that led me to pursue further education and conduct my current research, and I look forward to sharing this information with others.  
 
 Research Interests
 ======

@@ -14,8 +14,8 @@ Research Interests
 ======
 ・Psycholinguistics and Cognitive Linguistics  
 ・Chinese Linguistics (L1/L2)  
-・Japanese Linguistics (L1/L2)
-・Lexical Semantics
+・Japanese Linguistics (L1/L2)  
+・Lexical Semantics  
 ・Experimental Pragmatics  
 ・Corpus Linguistics  
 ・Contrastive Linguistics and Error Analysis  

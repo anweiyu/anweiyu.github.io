@@ -8,17 +8,17 @@ redirect_from:
 ---
 About me
 ======
-My name is Anwei and I'm a second-generation Chinese American from San Francisco. My family is from Hong Kong and Guangdong, China, and I was educated in the U.S. and Taiwan. I can fluently speak Mandarin, Cantonese, Taishanese, English and Japanese. I also have working knowledge of Taiwanese Hokkien, Korean and Spanish. Because of my background, I have developed a passion for learning about and spreading knowledge regarding different cultures and languages to others. I also love getting to know new people who come from their own diverse backgrounds, and all of these factors have led me to pursue a graduate degree and conduct my current research in the field of Chinese Linguistics and Second Language Acquisition.  
+My name is Anwei and I'm a second-generation Chinese American from San Francisco. My family is from Hong Kong and Guangdong, China, and I was educated in the U.S. and Taiwan. I can fluently speak Mandarin, Cantonese, Taishanese, English and Japanese. I also have working knowledge of Taiwanese Hokkien, Korean and Spanish. Because of my background, I have developed a passion for learning about and spreading knowledge regarding different cultures and languages to others. I also love getting to know new people who come from their own diverse backgrounds, and all of these factors have led me to pursue a graduate degree and conduct my current research in the field of East Asian Linguistics.  
 
 Research Interests
 ======
-・Experimental Linguistics  
-・L2 Chinese Pedagogy and Acquisition  
-・L2 Japanese Pedagogy and Acquisition  
+・Psycholinguistics and Cognitive Linguistics  
+・Chinese Linguistics (L1/L2)  
+・Japanese Linguistics (L1/L2)
+・Lexical Semantics
 ・Experimental Pragmatics  
 ・Corpus Linguistics  
 ・Contrastive Linguistics and Error Analysis  
-・Cognitive Linguistics and Language Processing  
 ・Cultural Competence and Intercultural Communication  
 ・Studies on Overseas Chinese and Chinese as a Heritage Language  
 

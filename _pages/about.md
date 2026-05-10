@@ -9,7 +9,9 @@ redirect_from:
 About me
 ======
 My name is Anwei and I am a researcher of East Asian Linguistics. While I grew up in San Francisco, California, I am proud of my family's  roots in Hong Kong and Guangdong, China.  I was educated in the U.S. and Taiwan, and I have full professional fluency in Cantonese, Taishanese, Mandarin, English, and Japanese. I also have working knowledge of Taiwanese Hokkien, Korean and Spanish. Through my experiences as a learner, instructor and researcher of languages and linguistics, I have developed a passion for this field that led me to pursue further education and conduct my current research, and I look forward to sharing this information with others.  
-
+  
+Recently, I have been using experimental methods to study the interpretation and processing of implied meaning (implicatures) in L1 and L2 Mandarin, and I am planning to expand this research to L1 and L2 Japanese in the near future.  
+  
 Research Interests
 ======
 ・Psycholinguistics and Cognitive Linguistics  

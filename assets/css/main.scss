@@ -40,6 +40,8 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-.author__avatar img {
+.author__avatar img,
+.author__avatar a img {
   border-radius: 0 !important;
+  clip-path: none !important;
 }

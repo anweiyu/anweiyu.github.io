@@ -22,7 +22,7 @@ Research Interests 研究專長
 ・Corpus Linguistics 語料庫語言學  
 ・Contrastive Linguistics and Error Analysis 對照語言學與偏誤分析  
 ・Cultural Competence and Intercultural Communication 文化能力與跨文化交流  
-・Studies on Overseas Chinese and Chinese as a Heritage Language 海外華人與華語為繼承語言研究  
+・Heritage Language Education 繼承語教育  
 
 Education
 ======

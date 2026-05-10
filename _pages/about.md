@@ -21,7 +21,7 @@ Research Interests 研究專長
 ・Experimental Pragmatics 實驗語用學  
 ・Corpus Linguistics 語料庫語言學  
 ・Contrastive Linguistics and Error Analysis 對照語言學與偏誤分析  
-・Cultural Competence and Intercultural Communication 文化能力與跨文化交流  
+・Cultural Competence and Intercultural Communication 文化能力與跨文化溝通  
 ・Heritage Language Education 繼承語教育  
 
 Education

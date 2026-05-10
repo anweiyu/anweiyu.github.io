@@ -12,17 +12,17 @@ My name is Anwei and I am a researcher of East Asian Linguistics. While I grew u
   
 Recently, I have been using experimental methods to study the interpretation and processing of implied meaning (implicatures) in L1 and L2 Mandarin, and I am planning to expand this research to L1 and L2 Japanese in the near future.  
   
-Research Interests
+Research Interests 研究專長
 ======
-・Psycholinguistics and Cognitive Linguistics  
-・Chinese Linguistics (L1/L2)  
-・Japanese Linguistics (L1/L2)  
-・Lexical Semantics  
-・Experimental Pragmatics  
-・Corpus Linguistics  
-・Contrastive Linguistics and Error Analysis  
-・Cultural Competence and Intercultural Communication  
-・Studies on Overseas Chinese and Chinese as a Heritage Language  
+・Psycholinguistics and Cognitive Linguistics 心理語言學與認知語言學  
+・Chinese Linguistics 漢語語言學  
+・Japanese Linguistics 日語語言學  
+・Lexical Semantics 詞彙語義學  
+・Experimental Pragmatics 實驗語用學  
+・Corpus Linguistics 語料庫語言學  
+・Contrastive Linguistics and Error Analysis 對照語言學與偏誤分析  
+・Cultural Competence and Intercultural Communication 文化能力與跨文化交流  
+・Studies on Overseas Chinese and Chinese as a Heritage Language 海外華人與華語為繼承語言研究  
 
 Education
 ======

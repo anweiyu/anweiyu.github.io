@@ -14,6 +14,9 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
+ - title: "Ongoing Projects"
+    url: /wip/ 
+
 #  - title: "Portfolio"
 #    url: /portfolio/
         

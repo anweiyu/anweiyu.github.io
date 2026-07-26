@@ -12,7 +12,7 @@ My name is Anwei and I am a researcher of East Asian Linguistics. While I grew u
   
 Recently, I have been using experimental methods to study the interpretation and processing of implied meaning (implicatures) in Mandarin and Japanese, as well as exploring the integration of GenAI in second/foreign language education.
   
-Research Interests 研究專長
+Research Interests 研究專長　研究分野
 ======
 ・Psycholinguistics and Cognitive Linguistics 心理語言學與認知語言學　心理言語学及び認知言語学  
 ・Chinese Linguistics 漢語語言學　中国語言語学  

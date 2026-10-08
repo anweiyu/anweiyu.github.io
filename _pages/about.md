@@ -28,7 +28,7 @@ Education
 <div style="display: flex; align-items:flex-start;text-align: left;">
   <img src="{{site.baseurl}}/images/IU.png" alt="IU Logo" width= "100" style="margin-right: 15px;">
   <p style="margin: 0;"><strong>Ph.D., East Asian Linguistics (Aug 2025 to Present) </strong><br>
-    Doctoral Minor in General Linguistics <br>
+    *Doctoral Minor in General Linguistics* <br>
     Indiana University, Bloomington, IN, U.S.A.<br>
     Fields of Study: Psycholinguistics, Lexical Semantics, Experimental Pragmatics<br>
     </p></div>

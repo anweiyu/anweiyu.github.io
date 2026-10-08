@@ -28,14 +28,15 @@ Education
 <div style="display: flex; align-items:flex-start;text-align: left;">
   <img src="{{site.baseurl}}/images/IU.png" alt="IU Logo" width= "100" style="margin-right: 15px;">
   <p style="margin: 0;"><strong>Ph.D., East Asian Linguistics (Aug 2025 to Present) </strong><br>
+    Doctoral Minor in General Linguistics <br>
     Indiana University, Bloomington, IN, U.S.A.<br>
-    Fields of Study: Psycholinguistics, Language Processing, Experimental Pragmatics<br>
+    Fields of Study: Psycholinguistics, Lexical Semantics, Experimental Pragmatics<br>
     </p></div>
     
 <div style="display: flex; align-items:flex-start;text-align: left;">
   <img src="{{site.baseurl}}/images/NTNU.png" alt="NTNU Logo" width= "100" style="margin-right: 15px;">
-  <p style="margin: 0;"><strong>M.A., Chinese as a Second Language</strong><br>
-    National Taiwan Normal University, Taipei, Taiwan<br>
+  <p style="margin: 0;"><strong>M.A., Teaching Chinese as a Second Language 華語文教學研究所 碩士</strong><br>
+    National Taiwan Normal University, Taipei, Taiwan 國立臺灣師範大學<br>
     Thesis: <a href="http://doi.org/10.6345/NTNU202300624"><em>An Error Analysis on Japanese CSL Learners' Usage of Mandarin Potential Expressions and its Pedagogical Implications</em> <br>日籍華語學習者能性結構偏誤分析及其教學應用</a></p></div>
     
 <div style="display: flex; align-items:flex-start;text-align: left;">
